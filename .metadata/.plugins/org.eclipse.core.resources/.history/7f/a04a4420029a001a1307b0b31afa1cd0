@@ -1,0 +1,5 @@
+package com.example.springex.repository;
+
+public class ConfirmationTokenRepository {
+
+}

@@ -1,0 +1,5 @@
+package com.example.springex.constant;
+
+public class ResponseLiteral {
+
+}
